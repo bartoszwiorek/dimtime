@@ -1,0 +1,12 @@
+{
+  "name": "dimtime",
+  "description": "Dim page for better browsing experience at night time.",
+  "author": {
+    "email": "bartoszwiorek+github@gmail.com",
+    "name": "Bartosz Wiorek",
+    "url": "https://wiorek.net"
+  },
+  "version": "1.0.0",
+  "main": "./index.js",
+  "dependencies": {}
+}
